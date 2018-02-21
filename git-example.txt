@@ -1,3 +1,7 @@
 git init
 git remote add origin <url>
 git log
+
+
+hello from SD 
+Omar
