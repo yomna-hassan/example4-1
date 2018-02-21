@@ -4,7 +4,7 @@ git log
 
 
 hello from SD 
-Omar
+Yomna
 
 1. welcome
 2. to
